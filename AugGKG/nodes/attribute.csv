@@ -1,0 +1,16 @@
+att0,Big,attribute,Size
+att1,Middle,attribute,Size
+att2,Small,attribute,Size
+att3,G1,attribute,Generation
+att4,G2,attribute,Generation
+att5,G3,attribute,Generation
+att6,DSIC,attribute,Birthplace
+att7,Raffles,attribute,Birthplace
+att8,JNS,attribute,Birthplace
+att9,SWS,attribute,Birthplace
+att10,GSI,attribute,Birthplace
+att11,QingDao,attribute,Deployment
+att12,ShangHai,attribute,Deployment
+att13,HongKong,attribute,Deployment
+att14,Tokyo,attribute,Deployment
+att15,Osaka,attribute,Deployment
